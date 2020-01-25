@@ -1,0 +1,2 @@
+This is not a markdown file.
+#markdown installation doesn't work for the Rstudio version that i have. i have Rstudio 3.2.3., since, i try a lot of way to intall it but it doesn't work. i will be thankful,if you have any intasllation ways to recomended it for me.
